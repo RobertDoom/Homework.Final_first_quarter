@@ -1,0 +1,15 @@
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\bin\Debug\net6.0\TaskFinal.exe
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\bin\Debug\net6.0\TaskFinal.deps.json
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\bin\Debug\net6.0\TaskFinal.runtimeconfig.json
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\bin\Debug\net6.0\TaskFinal.dll
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\bin\Debug\net6.0\TaskFinal.pdb
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.csproj.AssemblyReference.cache
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.AssemblyInfoInputs.cache
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.AssemblyInfo.cs
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.dll
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\refint\TaskFinal.dll
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.pdb
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\TaskFinal.genruntimeconfig.cache
+C:\Users\ilyas\Desktop\Java разработчик\Homework.Final_first_quarter\TaskFinal\obj\Debug\net6.0\ref\TaskFinal.dll
